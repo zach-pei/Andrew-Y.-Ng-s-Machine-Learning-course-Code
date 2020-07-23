@@ -1,16 +1,4 @@
-# Machine-Learning-classnotes
+# Machine-Learning-code-second week-first homework
 Andrew Y. Ng's Machine Learning course
-第一章<br>
-## 1.1监督学习
-监督学习分为回归问题和分类问题<br>
-回归问题比如房价预测<br>
-分类问题比如肿瘤恶性良性分类<br>
-## 1.2无监督学习
-无监督学习分为聚类分析问题和非聚类问题<br>
-聚类问题比如相似基因分组<br>
-非聚类问题比如嘈杂环境下声音分离<br>
-## 1.3模型表示的一般方法
-模型其实可以理解为一种良好的映射关系，我们可以通过训练数据集训练模型得到最佳映射，当我们给出输入时，最后会得到较好的输出。<br>
-## 1.4代价函数
-h(x)=\theta _{0}+\theta_{1}x<br>
-假设有m个样本，代价函数为：
+本代码包含吴恩达机器学习第一次编程作业的源码，该代码为matlab代码，可以直接运行，亲测提交成绩满分，供大家参考。PS：另外在提交时出现问题的同学，可以尝试用octave4.2.1提交，亲测win10下成功提交。
+CSDN吴恩达机器学习笔记：https://blog.csdn.net/Bill___Gates/article/details/107207671
